@@ -7,5 +7,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelIndiedev&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=500px)
 
+![Stats](./profile/stats.svg)
+
 ## 🎮 Game developer:
 [![Vibrant Pixel Productions](https://avatars.githubusercontent.com/u/195332373?s=200&v=4)](https://github.com/VibrantPixelProductions)
